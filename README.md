@@ -1,0 +1,3 @@
+Electro-Voice is an effective solution to bridge the communication gap for deaf-mute-blind individuals, particularly in scenarios where visual methods like sign language or lip reading are impractical, or when the communication recipient is unfamiliar with sign language or has visual impairments, to enable seamless interaction and understanding
+
+The device can convert speech to vibrations, which corresponds to morse code. This is fed out using a mini vibration motor.
