@@ -66,3 +66,4 @@ except KeyboardInterrupt:
 finally:
     arduino.close()
     engine.stop()  # Stop the TTS engine when the program ends
+# nothing 
